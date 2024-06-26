@@ -1,0 +1,17 @@
+/*$khushi:red;
+.container{
+    background-color: chocolate;
+    display: flex;
+    justify-content: space-between;
+    h2{
+        color:darkblue
+    }
+    ul{
+        display: flex;
+        
+        li{
+            color:$khushi;
+        }
+    }
+}*/
+@import '_navbar.scss';
