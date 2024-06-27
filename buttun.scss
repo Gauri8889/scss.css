@@ -1,0 +1,13 @@
+@mixin demo{
+    background-color: blueviolet;
+    color: aqua
+}
+.a3{
+    @include demo;
+}
+.a2{
+    @include demo;
+}
+.a1{
+    @include demo;
+}

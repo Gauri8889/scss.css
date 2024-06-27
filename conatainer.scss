@@ -15,3 +15,14 @@
     }
 }*/
 @import '_navbar.scss';
+@mixin demo{
+    color: coral;
+    background-color: blue;
+    font-style: verdana;
+}
+.head{
+    @include demo;
+}
+.para{
+    @include demo;
+}

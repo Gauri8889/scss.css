@@ -24,4 +24,16 @@
   justify-content: space-evenly;
   gap: 20px;
   list-style: none;
+}
+
+.head {
+  color: coral;
+  background-color: blue;
+  font-style: verdana;
+}
+
+.para {
+  color: coral;
+  background-color: blue;
+  font-style: verdana;
 }/*# sourceMappingURL=conatainer.css.map */
